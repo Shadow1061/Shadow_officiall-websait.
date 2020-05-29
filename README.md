@@ -1,0 +1,2 @@
+# Shadow_officiall-websait.
+&lt;DOCTUPE HTML> &lt;head> &lt;meta charset="uft-8"> &lt;title> вступление &lt;/title> &lt;/head> &lt;body> Привет всем, это мой сайт который я делал сам, очень долго. Надеюсь вам он понравился, а вот ссылка на мой ютуб канал. &lt;a href="https://www.youtube.com/channel/UCwJMk7M5snfMxVgPG5sawkw">мой ютуб канал.&lt;/a> &lt;br>&lt;/br>  &lt;img src="20200324_214815.jpg"> &lt;center>&lt;/center> &lt;body> Спасибо всем кто смотрит мой канал, я буду стараться радовать вас и дальше. &lt;/body> &lt;/DOCTUPE> &lt;/html>
